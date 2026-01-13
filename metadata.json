@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Carbon Sequestration Calculator",
+  "description": "A web application to calculate carbon sequestration rates of various tree types, bamboo, and vines with data persistence and reporting features.",
+  "requestFramePermissions": []
+}
